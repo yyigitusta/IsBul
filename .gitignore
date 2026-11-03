@@ -1,0 +1,35 @@
+# .NET build output
+api/bin/
+api/obj/
+api/.vs/
+api/*.user
+api/*.suo
+
+# Local database and private backups
+api/App_Data/*.db
+api/App_Data/*.db-*
+api/App_Data/*.sqlite
+api/App_Data/*.sqlite-*
+api/App_Data/*backup*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+api/appsettings.*.local.json
+
+# Expo / Node
+app/node_modules/
+app/.expo/
+app/dist/
+app/web-build/
+app/.env.local
+app/.env.*.local
+app/*.tsbuildinfo
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
