@@ -66,6 +66,4 @@ API verisi SQLite ve EF Core ile `api/App_Data/yevmiye.db` dosyasında tutulur. 
 - Gerçek kullanıcılarla açmadan önce gizlilik metni, kullanım koşulları, iletişim kanalı ve verilerin silinmesi sürecini belirle.
 
 Başlangıçtaki üç ilan örnektir ve başvuru kabul etmez. Geliştirme CORS ayarı localhost/loopback web kökenlerine açıktır.
-=======
 
->>>>>>> 12abf88d0035f5c95cdafeab7a42007592352713
