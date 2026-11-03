@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Yevmiyem — İznik günlük iş ilanları
 
 İş arayanlarla günlük işçi arayan işverenleri İznik'te buluşturan web ve mobil uygulama başlangıcı.
